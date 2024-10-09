@@ -1,5 +1,5 @@
 # ASD_1_4
-## Najmniejsza i największa liczba w ciągu
+## Iloczyn macierzy
 
 Dana jest prostokątna macierz X, zawierająca liczby całkowite, składająca się z m wierszy i n kolumn. Liczba wierszy i kolumn jest nie większa niż 100.
 
